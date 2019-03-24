@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: com.android.support:asynclayoutinflater:28.0.0@aar">
+    <CLASSES>
+      <root url="jar://F:/Sdk/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/cc7bb612da6e6eddc1905499ff0d9cda/jars/classes.jar!/" />
+      <root url="file://F:/Sdk/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/cc7bb612da6e6eddc1905499ff0d9cda/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

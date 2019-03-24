@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.lecho:hellocharts-library:1.5.8@aar">
+    <CLASSES>
+      <root url="jar://F:/Sdk/caches/transforms-1/files-1.1/hellocharts-library-1.5.8.aar/00f7593493f565df28c32493a7e9c96d/jars/classes.jar!/" />
+      <root url="file://F:/Sdk/caches/transforms-1/files-1.1/hellocharts-library-1.5.8.aar/00f7593493f565df28c32493a7e9c96d/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://F:/Sdk/caches/modules-2/files-2.1/com.github.lecho/hellocharts-library/1.5.8/51798d4793c333553a68292ee3a47b4758c2ec47/hellocharts-library-1.5.8-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
